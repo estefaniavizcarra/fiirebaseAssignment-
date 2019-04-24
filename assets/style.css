@@ -1,0 +1,41 @@
+.jumbotron{
+    background-color:palevioletred!important;
+    color:white!important;
+    text-align:center!important; 
+    border-color: pink!important ;
+    border: 1em!important;
+
+}
+h1{
+    font-size: 2.9em!important;
+    font-weight: 900!important;
+    letter-spacing: .1em;
+}
+body{
+    background-color:white!important
+}
+#submit{
+    background-color:palevioletred!important;
+    border-color: palevioletred!important;
+
+}
+
+
+.card-header{
+    background-color: palevioletred!important;
+
+}
+table{
+    color:white;
+}
+
+#table{
+    color:black;
+}
+
+.card-header{
+    color:white;
+    font-weight: 600;
+    text-align: center;
+    font-size: 1.3em;
+}
